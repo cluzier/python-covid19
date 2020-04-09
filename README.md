@@ -1,4 +1,4 @@
-# Python Covid Tracker
+# 🦠 Python Covid Tracker
 
 Fetches the latest COVID-19 data from [thevirustracker.com](thevirustracker.com) 
 
